@@ -1,3 +1,7 @@
+LIVE WEBSITE LINK ::  https://slack-cp-ac4aa.web.app 
+
+Technology Used: React, Context API, Css variable, Firebase firestore, Firebase Auth.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
